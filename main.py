@@ -1,20 +1,25 @@
-fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
-fruits.count('apple')
-print(fruits)
+# fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+# fruits.count('apple')
+# print(fruits)
 
-fruits.count('tangerine')
+# fruits.count('tangerine')
 
-fruits.index('banana')
+# fruits.index('banana')
 
-fruits.index('banana', 4)  # Find next banana starting at position 4
+# fruits.index('banana', 4)  # Find next banana starting at position 4
 
-fruits.reverse()
-fruits
+# fruits.reverse()
+# fruits
 
-fruits.append('grape')
-fruits
+# fruits.append('grape')
+# fruits
 
-fruits.sort()
-fruits
+# fruits.sort()
+# fruits
 
-fruits.pop()
+# fruits.pop()
+
+def welcome():
+    print("Hey you are welcome my friend")
+    
+Prajwal = "A Good boy"
